@@ -38,7 +38,7 @@ use Qiniu\Auth;
 ...
 ```
 
-## 测试
+### 测试
 
 ``` bash
 $ ./vendor/bin/phpunit tests/Qiniu/Tests/
